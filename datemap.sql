@@ -1,0 +1,4 @@
+CREATE TABLE datemap (
+	dateid		INTEGER DEFAULT 20190000,
+	dateindex	INTEGER DEFAULT 0
+);
